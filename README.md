@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iashutosh01
+- 👋 Hi, I’m Ashutosh
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning Java Script.
 - 💞️ I’m looking to collaborate on git hub.
