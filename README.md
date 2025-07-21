@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ashutosh
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on git hub.
 - 📫 How to reach me ...you can reach me on linkedin.
 -  Linkedin ID -> www.linkedin.com/in/ashutoshk07/
